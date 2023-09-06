@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\bin\Debug\net7.0\RPG Dotnet.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\bin\Debug\net7.0\RPG Dotnet.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\bin\Debug\net7.0\RPG Dotnet.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\bin\Debug\net7.0\RPG Dotnet.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\bin\Debug\net7.0\RPG Dotnet.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\refint\RPG Dotnet.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\RPG Dotnet.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\RPG Dotnet\obj\Debug\net7.0\ref\RPG Dotnet.dll
